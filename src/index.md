@@ -1,12 +1,12 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Notes from my quick glances of this nebulous world
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
 socialImage: ''
 ---
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+*Panta rhei*, attributed to [Herelictus](https://en.wikipedia.org/wiki/Heraclitus#Panta_rhei_%E2%80%93_impermanence), characterizes everything as being fluid. Nothing stays fixated. This blog is a repository of notes that reflects my worldview on different matters of everyday life.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Caveat lector: The inevitable trap of [Dunning-Kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) effect and any other relevant [cognitive bias](https://medium.com/better-humans/cognitive-bias-cheat-sheet-55a472476b18)
